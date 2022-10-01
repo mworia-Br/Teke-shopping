@@ -1,10 +1,10 @@
 export const configs = {};
 
-configs.title = "E Angadi";
-configs.description = "Buy Online from Angadi | All payment options available";
+configs.title = "E Teke";
+configs.description = "Buy Online from Teke | All payment options available";
 
 configs.aboutus =
-  "E Angadi is a easy to deploy e commerce application with all payment options, specially designed for Indian user space";
+  "E Teke is a easy to deploy e commerce application with all payment options, specially designed for Indian user space";
 
 configs.address =
   "#000, xyz street, near xyz complex, but it is in Hyderabad, love Hyderabad";

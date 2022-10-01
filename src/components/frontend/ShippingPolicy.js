@@ -24,15 +24,15 @@ function ShippingPolicy() {
       <br />
       <br />
       iii. Subject to availability of the ordered product at the Delivery Point
-      on the delivery day, EAngadi shall deliver the product to You as per
-      schedule, failing which EAngadi shall inform You with a revised schedule
+      on the delivery day, ETeke shall deliver the product to You as per
+      schedule, failing which ETeke shall inform You with a revised schedule
       for delivery of the Product. You may ask for cancellation/modification of
       Order on account of this.
       <br />
       <br />
       iv. It is your responsibility to count and check all the products while
       accepting the Products as per your Order. No dispute will be entertained
-      by EAngadi once you accept the products at the Delivery Point.
+      by ETeke once you accept the products at the Delivery Point.
       <br />
       <br />
       v. You shall accept the product without demur in the following
@@ -47,7 +47,7 @@ function ShippingPolicy() {
       <b>Shipping Charges:</b>
       <br />
       Delivery charge of Rs. 25/- will be leviable for each delivery. However
-      EAngadi may run certain promotions / offers or prescribe minimum order
+      ETeke may run certain promotions / offers or prescribe minimum order
       value for each transaction to waive the delivery charges.
     </div>
   );

@@ -1,21 +1,21 @@
 <p align="center">
-  <a href="https://github.com/E-Angadi/AngadiWeb">
+  <a href="https://github.com/E-Teke/Teke">
     <img src="images/LOGO2.png" alt="Logo" height="400" width="800" style="border-radius: 2%;">
   </a>
 
-  <h3 align="center">E Angadi</h3>
+  <h3 align="center">E Teke</h3>
 
   <p align="center">
     A fully configurable e-commerce web application with dashboard using Firebase at backend. 
     <br />
-    <a href="https://github.com/E-Angadi/AngadiWeb" target="blank"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/E-Teke/Teke" target="blank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://eangadi-a2aa8.web.app/">View Demo</a>
+    <a href="https://eTeke-a2aa8.web.app/">View Demo</a>
     ·
-    <a href="https://github.com/E-Angadi/AngadiWeb/issues">Report Bug</a>
+    <a href="https://github.com/E-Teke/Teke/issues">Report Bug</a>
     ·
-    <a href="https://github.com/E-Angadi/AngadiWeb/issues">Request Feature</a>
+    <a href="https://github.com/E-Teke/Teke/issues">Request Feature</a>
     <br/>
     <p align='center' style='font-size: 14px;'>
     Note: Search and Payment functionalities are intentionally disabled on demo version.
@@ -69,11 +69,10 @@
 
 ## About The Project
 
-[![E Angadi](/images/s1.png)](https://eangadi-a2aa8.web.app/)
 
-AngadiWeb is an e-commerce application built with an intention to help small and medium businesses to deploy there own e-commerce solution within no time.
+Teke is an e-commerce application built with an intention to help small and medium businesses to deploy there own e-commerce solution within no time.
 
-<b>Special Features of AngadiWeb:</b>
+<b>Special Features of Teke:</b>
 
 - All payment options( Debit card / Credit card / Many Indian wallets) are available which are powered by [Razorpay](https://razorpay.com/)
 - Cash on Delivery option is also available.
@@ -122,7 +121,7 @@ This is a detailed step by step instruction guide to setup your own e-commerce s
 
 1. Select the project location and launch the terminal / powershell. Clone the repo
    ```sh
-   git clone https://github.com/E-Angadi/AngadiWeb.git
+   git clone https://github.com/E-Teke/Teke.git
    ```
 2. Install NPM packages
    ```sh

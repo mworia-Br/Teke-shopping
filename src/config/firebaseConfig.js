@@ -11,6 +11,7 @@ export var firebaseConfig = {
   storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
   messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
   appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  measurementId: "G-2MFLMCCB4B"
 };
 
 var firebaseApp = firebase.initializeApp(firebaseConfig);

@@ -16,13 +16,13 @@ function TCD() {
       digital signatures.
       <br />
       <br />
-      EAngadi("Website and application") is an online selling channel, having
+      ETeke("Website and application") is an online selling channel, having
       its office at Nizampet, Hyderabad – 500090
       <br />
       <br />
       Your use / access of the Website and application, its related sites and
       hyperlinks, shall be governed by the terms and conditions, policies, rules
-      of EAngadi("Terms") posted on the Website and application from time to
+      of ETeke("Terms") posted on the Website and application from time to
       time. These Terms applies to all users (whether Registered user or Guest
       User) of the Website and application.
       <br />
@@ -31,7 +31,7 @@ function TCD() {
       Website and application as your use of the Website and application is
       subject to your acceptance of and compliance with the Terms. If you do not
       agree or are not willing to be bound by the terms and conditions of this
-      User Agreement and any Rules and Policies of EAngadi, please do not click
+      User Agreement and any Rules and Policies of ETeke, please do not click
       on the " I Accept" button/check box and on the "Continue" button or "Pay
       Now" button and do not subscribe or seek to obtain access to or otherwise
       use the Website and application.
@@ -40,7 +40,7 @@ function TCD() {
       By subscribing to or using the website and application or any of our
       services through the Website and application you agree that you have read,
       understood and are bound by the Terms, Policies, directions of
-      EAngadiregardless of how you subscribe to or use the Website and
+      ETekeregardless of how you subscribe to or use the Website and
       application. This Agreement comes into effect upon your "Acceptance" of
       these terms and conditions ("Terms") however Suryakantham Sahajahara at
       its sole discretion reserves its right not to accept a user from
@@ -63,10 +63,10 @@ function TCD() {
       Website and application.
       <br />
       <br />
-      "EAngadi"/ "we"/ "us"/ "our" shall mean EAngadi Private Limited or its
+      "ETeke"/ "we"/ "us"/ "our" shall mean ETeke Private Limited or its
       affiliates, franchisees, service providers, successors and assigns "Site"
-      means the online shopping platform owned and operated by EAngadiPrivate
-      Limited, which provides a venue to the users of EAngadito buy the Products
+      means the online shopping platform owned and operated by ETekePrivate
+      Limited, which provides a venue to the users of ETeketo buy the Products
       listed on Site.
       <br />
       <br />
@@ -105,7 +105,7 @@ function TCD() {
       photographs, trademarks, logos, sounds, music, artwork and computer code
       collectively By impliedly or expressly accepting this User Agreement,
       Policies and Terms, You also accept and agree to be bound by Rules,
-      Policies and Terms of EAngadias provided from time to time in its Website
+      Policies and Terms of ETekeas provided from time to time in its Website
       and application and corresponding hyperlinks.
       <br />
       <br />
@@ -119,7 +119,7 @@ function TCD() {
       <br />
       You can use the services offered by the Website and application as a
       "Registered User". As part of the registration process on the Site,
-      EAngadi may collect certain personally identifiable information about you
+      ETeke may collect certain personally identifiable information about you
       including first and last name, email address, mobile phone number and
       contact details, Postal code, Demographic profile (like your age, gender,
       occupation, education, address etc.) and information about the pages on
@@ -162,7 +162,7 @@ function TCD() {
       forth in any written or on-screen notice from us.
       <br />
       <br />
-      To register with & shop with EAngadi you must be eighteen years of age or
+      To register with & shop with ETeke you must be eighteen years of age or
       over. Our website and application is not directed to children under the
       age of 18. If we become aware that a child and/ or customer is under the
       age of 18 and has registered or using our Website and application, we are
@@ -228,29 +228,29 @@ function TCD() {
       <br />
       <br />
       This Website and application is controlled and operated by Suryakantham
-      Sahajahara from India and EAngadi makes no representation that the
+      Sahajahara from India and ETeke makes no representation that the
       materials are appropriate or will be available for use in other locations.
       If you use this web site from outside the India, you are entirely
       responsible for compliance with all applicable local laws.
       <br />
       <br />
-      EAngadi has several website and applications offering products, services,
+      ETeke has several website and applications offering products, services,
       content and various other functionalities (collectively the "Services") to
       specific regions worldwide. The Services offered in one region may differ
       from those in other regions due to availability, local or regional laws,
-      shipment and other considerations. EAngadi does not make any warranty or
+      shipment and other considerations. ETeke does not make any warranty or
       representation that a user in one region may obtain the Services from the
-      Suryakantham Sahajahara site in another region and EAngadi may cancel a
+      Suryakantham Sahajahara site in another region and ETeke may cancel a
       user's order or redirect a user to the site for that user's region if a
       user attempts to order Services offered on a site in another region.
       <br />
       <br />
-      Information that EAngadi publishes on the World Wide Web may contain
+      Information that ETeke publishes on the World Wide Web may contain
       references or cross references to Suryakantham Sahajahara products,
       programs and services that are not announced or available in your country.
       Such references do not imply that Suryakantham Sahajahara intends to
       announce such products, programs or services in your country. Consult your
-      local EAngadi business contact for information regarding the products,
+      local ETeke business contact for information regarding the products,
       programs and services that may be available to you.
       <br />
       <br />
@@ -270,10 +270,10 @@ function TCD() {
       <b>5) Permission to access website and application:</b>
       <br />
       <br />
-      EAngadi grants you a limited, revocable permission to access and make
+      ETeke grants you a limited, revocable permission to access and make
       personal use of this Website and application, but not to download or
       modify it, its Contents or any portion of it, except with express written
-      consent of EAngadi . This permission does not include any resale or
+      consent of ETeke . This permission does not include any resale or
       commercial use of this website and application or its contents; any
       collection and use of any product listings, descriptions, or prices; any
       derivative use of this website and application or its contents; any
@@ -391,8 +391,8 @@ function TCD() {
       cancel any order, even after acceptance.
       <br />
       <br />
-      EAngadi has complete right to accept or reject an order placed online. No
-      act or omission of EAngadi prior to actual dispatch of the product(s)
+      ETeke has complete right to accept or reject an order placed online. No
+      act or omission of ETeke prior to actual dispatch of the product(s)
       ordered will constitute an acceptance of your offer. You agree not to
       dispute the decision of Suryakantham Sahajahara in this regard.
       <br />
@@ -420,17 +420,17 @@ function TCD() {
       <br />
       Copyright: All Content included on the website and application, such as
       text, graphics, logos, button icons, images, audio clips, digital
-      downloads, data compilations, and software, is the property of EAngadi ,
+      downloads, data compilations, and software, is the property of ETeke ,
       its affiliates or its content suppliers and is protected by the
       Intellectual Property Laws of India.
       <br />
       <br />
-      Trademarks: The trademark EAngadi , its logo and all products and logos
-      denoted with TM are trademarks owned or registered trademarks of EAngadi
+      Trademarks: The trademark ETeke , its logo and all products and logos
+      denoted with TM are trademarks owned or registered trademarks of ETeke
       or its affiliates.
       <br />
       <br />
-      Intellectual Property Claims: EAngadi and its affiliates or its content
+      Intellectual Property Claims: ETeke and its affiliates or its content
       suppliers respect the intellectual property of others. If you believe that
       your intellectual property rights have been used in a way that gives rise
       to concerns of infringement, please write to us with your concerns.
@@ -463,7 +463,7 @@ function TCD() {
       <b>14) Amendments:</b>
       <br />
       <br />
-      EAngadi reserves its right to amend the Website and application, Policies,
+      ETeke reserves its right to amend the Website and application, Policies,
       Conditions or Terms of use and at any time without prior notice. All such
       updates and amendments shall be posted on the Website and application and
       will be effective from the time of its posting on the Website and
@@ -487,7 +487,7 @@ function TCD() {
       party.
       <br />
       <br />
-      You hereby expressly release EAngadi and/or its affiliates and/or any of
+      You hereby expressly release ETeke and/or its affiliates and/or any of
       its officers and representatives from any cost, damage, liability or other
       consequence of any of the actions/inactions of the Manufacturers/Brand
       owners of the Products purchased through the website and application and
@@ -510,7 +510,7 @@ function TCD() {
       <br />
       <br />
       Without prejudice to the generality of this section the total liability of
-      EAngadi to you for all liabilities arising out of this User Agreement be
+      ETeke to you for all liabilities arising out of this User Agreement be
       it in tort or contract is limited to the value of the product ordered by
       you. However, in case of missing a delivery in transit, Our liability is
       limited only to delivery at a later agreed time at no additional charge.
@@ -525,7 +525,7 @@ function TCD() {
       <br />
       <br />
       Prices and taxes thereon in respect of all products are subject to change
-      from time to time, without prior notice by EAngadi . We strive to provide
+      from time to time, without prior notice by ETeke . We strive to provide
       you with the best prices possible on our Website and application. All the
       products listed on the Website and application will be sold at Indian
       Rupees either at Maximum Retail Price (MRP) (inclusive of all taxes) or at
@@ -563,8 +563,8 @@ function TCD() {
       <b>2) Payment Policy:</b>
       <br />
       <br />
-      EAngadi offers you multiple payment options both online and offline
-      however EAngadi reserves its right to add or delete any mode of payment
+      ETeke offers you multiple payment options both online and offline
+      however ETeke reserves its right to add or delete any mode of payment
       without any prior notice.
       <br />
       <br />
@@ -576,7 +576,7 @@ function TCD() {
       delivery location
       <br />
       <br />
-      For CoD Payment option, maximum order value is Rs 20,000/- However EAngadi
+      For CoD Payment option, maximum order value is Rs 20,000/- However ETeke
       can change this limit without further notice.
       <br />
       <br />
@@ -586,7 +586,7 @@ function TCD() {
       a payment confirmation sms from your bank, the amount generally gets
       reversed in the same account. You may raise the incident with customer
       care number on the back of card to reverse the amount in case of
-      unreasonable delay, EAngadi will not be responsible for such failed
+      unreasonable delay, ETeke will not be responsible for such failed
       attempts due to any network or technical reasons. We on our part, upon
       request of customer, after due verification with our back-end team may
       give a written confirmation of the non-receipt of payment for you to
@@ -612,9 +612,9 @@ function TCD() {
       <br />
       <br />
       We accept payments made by most of the major credit/debit cards issued in
-      India. Acceptance of card payment is at the sole discretion of EAngadi and
+      India. Acceptance of card payment is at the sole discretion of ETeke and
       you may be asked to submit copy of photo identity proof too. However
-      EAngadi reserves its right to deny acceptance of card payment without any
+      ETeke reserves its right to deny acceptance of card payment without any
       prior notice. We don't accept internationally issued credit/debit cards
       and certain cards issued by banks in India too.
       <br />
@@ -630,7 +630,7 @@ function TCD() {
       <br />
       <br />
       Orders will be processed for shipment/delivery upon selection of your
-      preferred delivery location, date and time and confirmation by us. EAngadi
+      preferred delivery location, date and time and confirmation by us. ETeke
       may change maximum order value of COD and items/locations available for
       COD without prior intimation.
       <br />
@@ -657,7 +657,7 @@ function TCD() {
       iv. Decline of transaction for any other reason/s
       <br />
       <br />
-      EAngadi reserves its right to change the price of any product in the
+      ETeke reserves its right to change the price of any product in the
       Website and application any time without any notice. Prices stated at the
       time of an order is placed shall apply in respect to that order.
       <br />
@@ -680,26 +680,26 @@ function TCD() {
       <br />
       In case of payment made through online, before shipping / delivering your
       order to you, we may request you to provide copy of photo identity proof
-      document as acceptable to EAngadi to establish your ownership of the
+      document as acceptable to ETeke to establish your ownership of the
       payment instrument used by you for your purchase. This is done in the
       interest of providing a safe online shopping environment to our users.
       <br />
       <br />
-      EAngadi reserves the right to impose limits on the number of transactions
-      which EAngadi may receive from an individual valid credit/debit/ valid
+      ETeke reserves the right to impose limits on the number of transactions
+      which ETeke may receive from an individual valid credit/debit/ valid
       bank account and reserves the right to refuse to process transactions
       exceeding such limit.
       <br />
       <br />
-      EAngadi reserves its right to refuse to process transactions by buyers
+      ETeke reserves its right to refuse to process transactions by buyers
       with a prior history of questionable charges including without limitation
-      breach of any agreements by buyer with EAngadi or breach/violation of any
-      law or any charges imposed by bank or breach of any policy. EAngadi may do
+      breach of any agreements by buyer with ETeke or breach/violation of any
+      law or any charges imposed by bank or breach of any policy. ETeke may do
       such checks as it deems fit before approving the buyer's order ) for
-      security or other reasons at the discretion of EAngadi . As a result of
-      such check if EAngadi is not satisfied with the creditability of the Buyer
+      security or other reasons at the discretion of ETeke . As a result of
+      such check if ETeke is not satisfied with the creditability of the Buyer
       or genuineness of the transaction, it will have the right to reject such
-      order. EAngadi may delay dispatch or cancel any transaction at its sole
+      order. ETeke may delay dispatch or cancel any transaction at its sole
       discretion, if Suryakantham Sahajahara is suspicious of any Buyer's
       authenticity or activity or if the Buyer is conducting high transaction
       volumes, to ensure safety of the transaction.
@@ -716,9 +716,9 @@ function TCD() {
       there be any unreasonable delay in refund.
       <br />
       <br />
-      Buyer acknowledges that EAngadi will not be liable for any damages,
+      Buyer acknowledges that ETeke will not be liable for any damages,
       interests, claims etc. resulting from not processing a transaction or any
-      delay in processing a transaction which is beyond control of EAngadi .
+      delay in processing a transaction which is beyond control of ETeke .
       <br />
       <br />
       For Credit Card:
@@ -883,15 +883,15 @@ function TCD() {
       <br />
       <br />
       iii. Subject to availability of the ordered product at the Delivery Point
-      on the delivery day, EAngadi shall deliver the product to You as per
-      schedule, failing which EAngadi shall inform You with a revised schedule
+      on the delivery day, ETeke shall deliver the product to You as per
+      schedule, failing which ETeke shall inform You with a revised schedule
       for delivery of the Product. You may ask for cancellation/modification of
       Order on account of this.
       <br />
       <br />
       iv. It is your responsibility to count and check all the products while
       accepting the Products as per your Order. No dispute will be entertained
-      by EAngadi once you accept the products at the Delivery Point.
+      by ETeke once you accept the products at the Delivery Point.
       <br />
       <br />
       v. You shall accept the product without demur in the following
@@ -914,7 +914,7 @@ function TCD() {
       <br />
       <br />
       Delivery charge of Rs. 25/- will be leviable for each delivery. However
-      EAngadi may run certain promotions / offers or prescribe minimum order
+      ETeke may run certain promotions / offers or prescribe minimum order
       value for each transaction to waive the delivery charges.
       <br />
       <br />
@@ -942,19 +942,19 @@ function TCD() {
       <b>SPECIAL PROMOTIONS</b>
       <br />
       <br />
-      EAngadi may at its sole discretion run certain Special Promotions form
+      ETeke may at its sole discretion run certain Special Promotions form
       time to time under additional specific terms and conditions which shall be
       published on our website and application. The participation in such
       promotions is absolutely voluntary. Certain benefits of such promotions
       including cash back in customers store credit wallet shall have limited
       validity at the sole discretion of Suryakantham Sahajahara and maximum up
       to 6 months from the date of transaction. Any dispute regarding the non
-      receipt of promotion benefit must be brought to notice of EAngadi within
+      receipt of promotion benefit must be brought to notice of ETeke within
       60 days from the date of end of offer / promotion.
       <br />
       <br />
       Without prejudice to the generality of this section the total liability of
-      EAngadi to you for all liabilities arising out of such promotions be it in
+      ETeke to you for all liabilities arising out of such promotions be it in
       tort or contract is limited to the maximum value of the benefit / discount
       applicable to the specific promotion. However in case of missing a
       delivery in transit, Our liability is limited only to delivery at a later
@@ -1003,7 +1003,7 @@ function TCD() {
       regarding the Website and application and its contents.
       <br />
       <br />
-      Reserved Rights of EAngadi : We may discontinue this Website and
+      Reserved Rights of ETeke : We may discontinue this Website and
       application at any time and for any reason, without notice. All rights not
       expressly granted herein are hereby reserved to us.
       <br />
@@ -1026,10 +1026,10 @@ function TCD() {
       any warranties or guarantees and in an "As Is" and "where is" basis. You
       must bear the risks associated with the use of the Site. This Website and
       application provides content from other Internet sites or resources and
-      while EAngadiand its software support service provider tries to ensure
+      while ETekeand its software support service provider tries to ensure
       that material included on the Website and application is correct,
       reputable and of high quality, it cannot accept responsibility if this is
-      not the case. EAngadiand its affiliates shall not be held responsible for
+      not the case. ETekeand its affiliates shall not be held responsible for
       any errors or omissions or for the results obtained from the use of such
       information or for any technical problems you may experience with the
       Website and application. Suryakantham Sahajahara , its affiliates or its
@@ -1038,7 +1038,7 @@ function TCD() {
       timeliness of any content, information, software, text, graphics, links or
       communications provided on or through the use of the Website and
       application or that the operation of the Website and application will be
-      error free and/or uninterrupted. Consequently, EAngadiand its
+      error free and/or uninterrupted. Consequently, ETekeand its
       affiliates/associates assumes no liability whatsoever for any monetary or
       other damage suffered by you on account of the delay, failure,
       interruption, or corruption of any data or other information transmitted
