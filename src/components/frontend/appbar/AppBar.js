@@ -111,7 +111,7 @@ function MyAppBar(props) {
               <Link to="/">
                 <img
                   src={logo}
-                  alt={"Suryakantham Sahaajahaara"}
+                  alt={"TekeFresh"}
                   className={classes.brandImg}
                 />
               </Link>
