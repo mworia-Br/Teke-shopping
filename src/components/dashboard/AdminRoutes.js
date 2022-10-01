@@ -27,7 +27,7 @@ function AdminRoutes(props) {
     }
   }, [props.profile, props.auth]);
 
-  if (!authenticate) return <div> Please wait while Authenticating.... </div>;
+  //if (!authenticate) return <div> Please wait while Authenticating.... </div>;
 
   return (
     <div>

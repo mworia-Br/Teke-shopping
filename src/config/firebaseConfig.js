@@ -4,13 +4,13 @@ import "firebase/auth";
 import "firebase/storage";
 
 export var firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-  databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
-  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  apiKey: "AIzaSyD7-2PbB5JORAI1ZyPkJftTDm9ESVpCBII",
+  authDomain: "hotspiced-delivery-co-ke.firebaseapp.com",
+  databaseURL: "https://hotspiced-delivery-co-ke-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "hotspiced-delivery-co-ke",
+  storageBucket: "hotspiced-delivery-co-ke.appspot.com",
+  messagingSenderId: "1090787145567",
+  appId: "1:1090787145567:web:49a950090ae54bad1e68ea",
   measurementId: "G-2MFLMCCB4B"
 };
 
