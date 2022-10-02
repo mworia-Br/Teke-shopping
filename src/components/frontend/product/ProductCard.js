@@ -234,12 +234,12 @@ function ProductCard(props) {
         </span>
       </Link>
       <div className={classes.priceBox}>
-        <span className={classes.aprice}>{"₹" + productData.totalPrice}</span>
+        <span className={classes.aprice}>{"KShs" + productData.totalPrice}</span>
         <span> </span>
         {productData.discount > 0 && (
           <>
             <span className={classes.dprice}>
-              {"₹" + productData.taxedPrice}
+              {"KShs" + productData.taxedPrice}
             </span>
             <span> </span>
           </>
@@ -247,7 +247,7 @@ function ProductCard(props) {
         <span className={classes.variant}>{productData.unit}</span>
         {productData.discount > 0 && (
           <span className={classes.save}>
-            save ₹{productData.taxedPrice - productData.totalPrice}
+            save KShs{productData.taxedPrice - productData.totalPrice}
           </span>
         )}
         {productData.discount === 0 && <div className={classes.nosave}> </div>}
