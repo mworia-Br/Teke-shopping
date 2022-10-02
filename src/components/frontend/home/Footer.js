@@ -161,7 +161,7 @@ function Footer() {
       <Grid container justify="center" alignItems="center">
         <Grid item>
           <span className={classes.copyright}>
-            &#169; 2021, {configs.title}, All Rights Reserved
+            &#169; 2022, {configs.title}, All Rights Reserved
           </span>
         </Grid>
       </Grid>

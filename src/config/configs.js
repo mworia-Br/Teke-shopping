@@ -1,18 +1,18 @@
 export const configs = {};
 
-configs.title = "E Teke";
+configs.title = "TekeFresh";
 configs.description = "Buy Online from Teke | All payment options available";
 
 configs.aboutus =
-  "E Teke is a easy to deploy e commerce application with all payment options, specially designed for Indian user space";
+  "TekeFresh is a quick delivery e-commerce application with multiple Product offering and easy to use payment options, specially designed for the Kenyan user space";
 
 configs.address =
-  "#000, xyz street, near xyz complex, but it is in Hyderabad, love Hyderabad";
+  "B-99, Spa Mall, Ruiru, Thika Road Exit 19";
 
 // provide contact number with country code
 configs.contactInfo = {
-  email: "example@gmail.com",
-  watsappNum: "919966529191",
+  email: "briannganga70@gmail.com",
+  watsappNum: "+254791573545",
   androidAppLink: "#",
   iosAppLink: "#",
 };
