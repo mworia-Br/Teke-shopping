@@ -17,7 +17,7 @@ import { configs } from "../../../config/configs";
 const useStyles = makeStyles((theme) => ({
   root: {},
   drawerPaper: {
-    backgroundColor: "#f0f0f0",
+    backgroundColor: "#F5F5F5",
     overflowX: "hidden",
   },
   menuButton: {
@@ -60,7 +60,7 @@ const useStyles = makeStyles((theme) => ({
     paddingLeft: theme.spacing(2),
     display: "block",
     "&>a": {
-      color: theme.palette.primary.dark,
+      color: "#ffeb3b",
     },
     footerAppImgs: {
       width: "100%",
@@ -69,7 +69,7 @@ const useStyles = makeStyles((theme) => ({
   toolbar: {
     width: "245px",
     padding: theme.spacing(2),
-    backgroundColor: theme.palette.secondary.main,
+    backgroundColor: "#b2ffb4",
   },
 }));
 

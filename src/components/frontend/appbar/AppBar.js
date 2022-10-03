@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
   },
   appBar: {
-    backgroundColor: theme.palette.secondary.main,
+    backgroundColor: "#b2ffb4",
   },
   menuButton: {
     color: theme.palette.primary.main,

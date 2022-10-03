@@ -6,7 +6,7 @@ import { configs } from "../../../config/configs";
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    backgroundColor: theme.palette.footer.main,
+    backgroundColor: "#32a852",
     padding: theme.spacing(2),
     paddingTop: theme.spacing(3),
     boxSizing: "border-box",
@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
   services: {
     fontSize: 18,
     fontWeight: 500,
-    color: theme.palette.primary.main,
+    color: "#FFFFFF",
   },
   servicesList: {
     listStyle: "none",
@@ -29,7 +29,7 @@ const useStyles = makeStyles((theme) => ({
   },
   servicesItem: {
     textDecoration: "none",
-    color: theme.palette.primary.main,
+    color: "#FFFFFF",
     fontWeight: 300,
     lineHeight: 1,
   },
@@ -38,9 +38,9 @@ const useStyles = makeStyles((theme) => ({
     marginTop: theme.spacing(2),
     display: "block",
     "&>a": {
-      color: theme.palette.primary.dark,
+      color: "#ffeb3b",
     },
-    color: theme.palette.primary.main,
+    color: "#FFFFFF",
     fontWeight: 300,
     maxWidth: 300,
   },
@@ -51,7 +51,7 @@ const useStyles = makeStyles((theme) => ({
   },
   copyright: {
     marginTop: theme.spacing(2),
-    color: theme.palette.primary.main,
+    color: "#FFFFFF",
     fontSize: 16,
     display: "inline-block",
     textAlign: "center",

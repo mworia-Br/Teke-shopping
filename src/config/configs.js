@@ -22,7 +22,7 @@ configs.primary = "#215273";
 // Heade/Toolbar color
 configs.secondary = "#E1F5FE";
 // Footer color
-configs.footer = "#c5c5c5";
+configs.footer = "#32a852";
 // view all button
 configs.viewall = "#900325";
 
