@@ -200,7 +200,7 @@ function ProductHCard(props) {
                 <div className={classes.change}>
                   {count < 1 && (
                     <div className={classes.addBtn} onClick={handleAdd}>
-                      <span>Add to My Cart</span>
+                      <span>BUY NOW</span>
                       <span className={classes.iconAddBtn}></span>
                     </div>
                   )}

@@ -255,7 +255,7 @@ function ProductCard(props) {
       <div className={classes.change}>
         {count < 1 && productData.visibility && (
           <div className={classes.addBtn} onClick={handleAdd}>
-            <span>Add to My Cart</span>
+            <span>BUY NOW</span>
             <span className={classes.iconAddBtn}></span>
           </div>
         )}
