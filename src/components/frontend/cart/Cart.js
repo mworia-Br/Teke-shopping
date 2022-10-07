@@ -85,7 +85,7 @@ function Cart(props) {
           {props.cart.length > 0 && (
             <>
               <span className={classes.cartTitle}>
-                My Cart({props.cart.length})
+                Cart({props.cart.length})
               </span>
               <div className={classes.root1}>
                 {props.cart &&
