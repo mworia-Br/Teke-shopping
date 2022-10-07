@@ -161,7 +161,7 @@ function MyAppBar(props) {
                         <Person className={classes.menuButton} />
                       </IconButton>
                       <Hidden smDown>
-                        <p>{props.auth.uid ? "Account" : "Sign In"} </p>
+                        <p>{props.auth.uid ? "Profile" : "Sign In"} </p>
                       </Hidden>
                     </div>
                   </Link>
