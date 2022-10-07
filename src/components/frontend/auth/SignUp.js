@@ -104,8 +104,8 @@ function SignUp(props) {
         handleDifferentPassword();
         return;
       }
-      // var locations = props.locations[0].locations.split(",");
-      var pincode = values.pincode;
+      var locations = props.locations[0].locations.split(",");
+      var pincode = locations[values.pincode - 1];
       props.signUp({
         ...values,
         pincode: pincode,
@@ -154,7 +154,9 @@ function SignUp(props) {
         ? ""
         : "This field is required or check password again.";
     if ("pincode" in fieldValues)
-      tmp.pincode = fieldValues.pincode ? "" : "Pincode field is required.";
+      tmp.pincode = fieldValues.pincode
+        ? ""
+        : "We can't deliver to your area if your pincode is not in the list.";
     if ("phoneNum" in fieldValues)
       tmp.phoneNum =
         fieldValues.phoneNum &&
@@ -236,14 +238,13 @@ function SignUp(props) {
                   error={errors.main}
                   rowsMax={5}
                 />
-                <Controls.Input
+                <Controls.Select
                   name="pincode"
-                  label="Pincode"
+                  label="City"
                   value={values.pincode}
                   onChange={handleInputChange}
-                  //options={["Mangoes", "Apples", "Oranges", "Nairobi"]}
+                  options={getPincodes()}
                   error={errors.pincode}
-                  className={classes.input}
                 />
                 <Controls.Input
                   name="phoneNum"
