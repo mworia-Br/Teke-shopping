@@ -198,7 +198,7 @@ function MyAppBar(props) {
                       </Badge>
                     </IconButton>
                     <Hidden smDown>
-                      <p>My Cart</p>
+                      <p>Cart</p>
                     </Hidden>
                   </div>
                 </Link>
