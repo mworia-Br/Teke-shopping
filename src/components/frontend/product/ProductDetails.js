@@ -287,21 +287,21 @@ function ProductDetails(props) {
                     <div className={classes.apriceDiv}>
                       <span>M.R.P: </span>
                       <span className={classes.aprice}>
-                        {"KShs " + product.taxedPrice}
+                        {"KSH " + product.taxedPrice}
                       </span>
                     </div>
                   )}
                   <div className={classes.priceDiv}>
                     <span>Price: </span>
                     <span className={classes.price}>
-                      {"KShs " + product.totalPrice}
+                      {"KSH " + product.totalPrice}
                     </span>
                   </div>
                   {product.discount > 0 && (
                     <div className={classes.saveDiv}>
                       <span>You Save: </span>
                       <span className={classes.save}>
-                        {"KShs " + (product.taxedPrice - product.totalPrice)}
+                        {"KSH " + (product.taxedPrice - product.totalPrice)}
                       </span>
                     </div>
                   )}

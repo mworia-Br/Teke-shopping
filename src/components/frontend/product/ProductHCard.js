@@ -175,17 +175,17 @@ function ProductHCard(props) {
               </Link>
               <div className={classes.priceBox}>
                 <span className={classes.aprice}>
-                  {"KShs " + props.item.totalPrice}
+                  {"KSH " + props.item.totalPrice}
                 </span>
                 <span> </span>
                 <span className={classes.dprice}>
-                  {"KShs " + props.item.taxedPrice}
+                  {"KSH " + props.item.taxedPrice}
                 </span>
 
                 <span className={classes.variant}>{props.item.unit}</span>
                 {props.item.discount > 0 && (
                   <span className={classes.save}>
-                    save KShs {props.item.taxedPrice - props.item.totalPrice}
+                    save KSH {props.item.taxedPrice - props.item.totalPrice}
                   </span>
                 )}
                 {props.item.discount === 0 && (
@@ -194,7 +194,7 @@ function ProductHCard(props) {
               </div>
               <div className={classes.quanDiv}>
                 <div className={classes.quanPrice}>
-                  KShs {count * props.item.totalPrice}{" "}
+                  KSH {count * props.item.totalPrice}{" "}
                 </div>
 
                 <div className={classes.change}>

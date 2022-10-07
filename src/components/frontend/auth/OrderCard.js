@@ -150,7 +150,7 @@ function OrderCard({ order, cancelOrder }) {
           <div className={classes.total}>
             Order Total ({getItemsCount(order.cart)} items)
           </div>
-          <div className={classes.totalVal}>KShs {order.amount} </div>
+          <div className={classes.totalVal}>KSH {order.amount} </div>
         </Grid>
         <Grid item container className={classes.itemGrid} xs={12} sm={9}>
           {getItems(order.cart).map((item, idx) => {
@@ -174,7 +174,7 @@ function OrderCard({ order, cancelOrder }) {
                     </div>
                   </Grid>
                   <Grid item xs={2} container justify="flex-end">
-                    <div className={classes.unitP}>KShs {item.price} </div>
+                    <div className={classes.unitP}>KSH {item.price} </div>
                   </Grid>
                 </div>
               );

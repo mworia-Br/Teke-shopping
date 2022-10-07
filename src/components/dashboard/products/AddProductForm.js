@@ -415,7 +415,7 @@ function AddProductForm(props) {
                             <TableCell align="center">
                               {" "}
                               {tax.value}
-                              {tax.select === 0 ? "%" : "KShs"}{" "}
+                              {tax.select === 0 ? "%" : "KSH"}{" "}
                             </TableCell>
                             <TableCell align="center">
                               <IconButton

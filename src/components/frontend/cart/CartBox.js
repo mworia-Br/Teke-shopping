@@ -134,7 +134,7 @@ function CartBox(props) {
           Cart(<b>{props.cart.length}</b>)
         </Grid>
         <Grid item xs="auto">
-          <b>KShs {calcTPrice(props.cart)}</b>
+          <b>KSH {calcTPrice(props.cart)}</b>
         </Grid>
       </Grid>
       <Divider />
@@ -152,7 +152,7 @@ function CartBox(props) {
 
             <Grid container justify="space-between" alignItems="center">
               <Grid item xs="auto">
-                <b>KShs {product.totalPrice}</b>
+                <b>KSH {product.totalPrice}</b>
               </Grid>
               <Grid item xs="auto">
                 <div className={classes.changeCountDiv}>
