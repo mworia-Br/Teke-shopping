@@ -104,11 +104,11 @@ function Cart(props) {
               >
                 <Grid item xs="auto">
                   <div className={classes.noItemsTextHeading}>
-                    No Items in Cart
+                    Your cart is empty
                   </div>
                   <div className={classes.noItemsText}>
                     Explore the wide range of our products and have them
-                    delivered to your doorstep
+                    delivered to your doorstep in minutes
                   </div>
                   <Button
                     component={Link}
