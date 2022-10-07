@@ -131,7 +131,7 @@ function CartBox(props) {
     <div className={classes.mainRoot}>
       <Grid container className={classes.head} justify="space-between">
         <Grid item xs="auto">
-          My Cart(<b>{props.cart.length}</b>)
+          Cart(<b>{props.cart.length}</b>)
         </Grid>
         <Grid item xs="auto">
           <b>KShs {calcTPrice(props.cart)}</b>
