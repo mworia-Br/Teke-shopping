@@ -1,5 +1,7 @@
 import axios from "axios";
+//import { v4 as uuid } from "uuid/";
 import { configs } from "../../config/configs";
+import { firestore } from "../../config/firebaseConfig";
 import { clearCart } from "./cartActions";
 
 const calcTPrice = (items) => {
@@ -49,7 +51,34 @@ export const createOrder = (cod) => async (dispatch, getState) => {
         pnum: state.firebase.profile.pNum,
         cod: cod,
       };
+      var amount = amount;
+      var order_data = cartData;
+      var user_id = state.firebase.auth.uid;
+      var user_name = state.firebase.profile.name;
+      var address = state.firebase.profile.delivery;
+      var pincode = state.firebase.profile.pincode;
+      var pnum = state.firebase.profile.pNum;
+      var cod = cod; 
 
+      //var ordersRef = firestore.collection(`orders`);
+      //var docname = uuid();
+
+      await firestore.collection("orders").add({
+        user_id: user_id,
+        user_name: user_name,
+        payment_id: "",
+        cart: order_data,
+        deliverd: false,
+        amount: amount,
+        completed: true,
+        address: address,
+        pincode: pincode,
+        pnum: pnum,
+        cod: true,
+        cancelled: false,
+        time: new Date(),
+      });
+      var cod = cod;
       const res = await axios.post(
         configs.functionsURL + "/create_order",
         options
@@ -61,9 +90,9 @@ export const createOrder = (cod) => async (dispatch, getState) => {
         dispatch(clearCart());
       } else {
         dispatch({
-          type: "ORDER_ID_GEN",
-          payload: res.data,
+          type: "COD_DONE",
         });
+        dispatch(clearCart());
       }
     } catch (err) {
       dispatch({
