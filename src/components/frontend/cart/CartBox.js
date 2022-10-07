@@ -183,7 +183,7 @@ function CartBox(props) {
         {props.cart.length === 0 && (
           <Grid className={classes.noitems} container justify="center">
             <Grid item xs="auto">
-              <b>No items in the cart</b>
+              <b>Your Cart is empty</b>
               <br />
               <br />
               <AddShoppingCartOutlinedIcon fontSize="large" />
@@ -193,7 +193,7 @@ function CartBox(props) {
       </div>
       {props.cart.length > 0 && (
         <Link to="/checkout/review">
-          <div className={classes.proceed}>Continue to Checkout</div>
+          <div className={classes.proceed}>Checkout</div>
         </Link>
       )}
     </div>
